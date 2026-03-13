@@ -1,3 +1,4 @@
+![FinGPT NSE](banner.png)
 # FinGPT-NSE
 
 ## AI Stock Market Analyst for Nifty 50 using LLM + RAG
